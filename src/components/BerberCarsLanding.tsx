@@ -23,8 +23,8 @@ import React, {
 
 const BOOKING_URL =
   "https://dobrymechanik.pl/mechanicy/katowice/auto-serwis-dostawcze-berber-cars-geometria-3d.html?dm_source=mechanic_link_46755_button"; // TODO: set your real booking link
-const PHONE_E164 = "+48881288700"; // tel link
-const PHONE_HUMAN = "+48 881 288 700";
+const PHONE_E164 = "+48884300404"; // tel link
+const PHONE_HUMAN = "+48 884 300 404";
 const EMAIL = "biuro@berbercars.pl";
 const ADDRESS_TEXT = "Roździeńska 41, 40-382 Katowice";
 const TELEGRAM_HANDLE = "berberwarsztat";
